@@ -1,1 +1,2 @@
 # projectEuler
+I will be creating a node.js app for each project Euler question i attempt to solve. I will use the npm package "inquirer" to use prompts so the user can input different variables to test out other "n's" instead of the targeted n given to solve in the original n from the problem if possible. Each question will be in a different branch labeled the question number.
