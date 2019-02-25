@@ -25,6 +25,7 @@ var sequence = function(){
 console.log("fibonacci sequence length is "+fibSeq.length);
 var sol = 0;
 
+//for loop to increase counter for each even number
 for (j=0;j<fibSeq.length; j++){
     
     if(isEven(fibSeq[j])){
